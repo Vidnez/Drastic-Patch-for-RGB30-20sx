@@ -14,7 +14,7 @@ The patch has 5 layouts, which are invoked with the images in PNG format that th
 
 2.- Unzip the ZIP file and copy the ndspatch.sh and ndspatch.tar.gz files into the ports folder and run ndspatch from game list of port section in emulation station.
 
-3.- Go to  roms/nds/bg folder or roms2/nds/bg folder to select the two PNG you want to use.
+3.- Go to roms/nds/bg folder or roms2/nds/bg folder to select and keep the two PNG you want to use.
 
 You can apply the patch as many times as you want to restore the config file or images of the layouts.
 
