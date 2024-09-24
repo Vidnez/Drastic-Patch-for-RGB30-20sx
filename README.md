@@ -1,5 +1,5 @@
 # Drastic Patch for RGB30-20sx
-A Drastic patch (ArkOS Only) for RGB30/20sx that allow multiple screen layouts and sizes.
+A patch for RGB30/20sx that allow multiple screen layouts and sizes in Drastic standalone emulator. The patch is only for ArkOS.
 
 
 
